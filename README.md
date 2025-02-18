@@ -3,8 +3,9 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-Welcome to my LeetCode solutions repository! Here, you'll find my solutions to the most essential 150 Data Structures and Algorithms (DSA) questions from LeetCode. This curated list covers comprehensive interview topics and is ideal for thorough interview preparation.
+Welcome to my LeetCode solutions repository! Here, you'll find my solutions to the most essential 150 Data Structures and Algorithms (DSA) questions from LeetCode. This curated list covers comprehensive interview topics and is ideal for thorough interview preparation. Solutions are primarily implemented in Python, C++, and Java.
 
 ## 📚 Repository Structure
 
@@ -12,6 +13,7 @@ Each problem solution is organized in its own directory, named after the problem
 
 - `solution.py`: The Python implementation of the solution
 - `solution.cpp`: The C++ implementation (if available)
+- `Solution.java`: The Java implementation (if available)
 - `README.md`: A brief description of the problem and approach
 
 ## Contributing
