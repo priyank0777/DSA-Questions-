@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-class Solution {
+class solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> anagrams = new HashMap<>();
         for (String s : strs) {
@@ -20,7 +20,7 @@ class Solution {
 
     // Example usage
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        solution solution = new solution();
         String[] strs1 = {"eat", "tea", "tan", "ate", "nat", "bat"};
         String[] strs2 = {""};
         String[] strs3 = {"a"};
